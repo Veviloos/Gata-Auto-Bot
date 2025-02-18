@@ -2,6 +2,9 @@
 
 Automation bot for Gata Data Verification Agent (DVA) tasks. This bot helps automate the process of completing DVA tasks on the Gata platform.
 
+Register https://app.gata.xyz/
+Use my code m91lqz58
+
 ## 📋 Features
 
 - Automatic login with MetaMask credentials
